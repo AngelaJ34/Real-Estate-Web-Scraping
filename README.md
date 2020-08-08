@@ -1,10 +1,15 @@
 # Overview
 
-The purpose behind this project is to scrape the Century21 website for the purpose of extracting information such as addresses, property value listings, elements , and other details without any unique identifiers. In doing so allows the user to experiment with the various parameters within the dataset csv file.
+The purpose behind this project is to scrape the National Weather Service website for the purpose of extracting information such as weekly forecast, weather, elements , and other details without any unique identifiers. In doing so allows the user to experiment with the various parameters within the dataset csv file.
+
+# Website Source
+
+National Weather Service:
+https://forecast.weather.gov/MapClick.php?lat=34.05361000000005&lon=-118.24549999999999#.Xy375hNKjw4
 
 # Technological Tools
 
-Python 3.8, Pandas, NumPy, requests, BeautifulSoup, Jupyter Notebook
+Python 3.8, Pandas, NumPy, requests, BeautifulSoup
 
 # Installation instructions
 <p>
@@ -22,6 +27,4 @@ Python 3.8, Pandas, NumPy, requests, BeautifulSoup, Jupyter Notebook
 <p>
 5.) BeautifulSoup must be downloaded in terminal or command prompt to access this program: pip3 install beautifulsoup4
 </p>
-<p>
-6.) Once the above requirements have been met please open Jupyter Notebook
-</p>
+
