@@ -1,6 +1,6 @@
 # Overview
 
-The purpose behind this project is to scrape the National Weather Service website is to extract information such as weekly forecast, weather, elements , and other details without any unique identifiers. In doing so allows the user to experiment with the various parameters within the dataset csv file.
+The purpose behind this project is to scrape the National Weather Service website is to extract information such as weekly forecast, weather, elements , and other details without any unique identifiers. In doing so allows the user to experiment with the various parameters within the dataset csv file. What story this data tells is that prediciting the various types of weather patterns that are likely to occur throughout the week.
 
 # Website Source
 
